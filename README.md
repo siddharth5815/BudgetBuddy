@@ -28,7 +28,7 @@ Follow these instructions to set up and run the BudgetBuddy application:
 
 Clone the repository:
 
-git clone https://github.com/your-username/budgetbuddy.git
+git clone https://github.com/siddharth5815/budgetbuddy.git
 Install the dependencies for the backend server:
 
 cd budgetbuddy/server
@@ -46,31 +46,6 @@ Install the dependencies for the frontend:
 
 npm install
 Start the frontend development server:
-
-#### Folder Structure
-The project structure is organized as follows:
-
-budgetbuddy/
-├── server/
-│   ├── config/
-│   ├── controllers/
-│   ├── middleware/
-│   ├── models/
-│   ├── routes/
-│   ├── utils/
-│   └── server.js
-└── client/
-    ├── public/
-    └── src/
-        ├── components/
-        ├── context/
-        ├── pages/
-        ├── services/
-        ├── utils/
-        ├── App.js
-        ├── index.js
-        └── ...
-The server folder contains the backend server code, while the client folder contains the frontend code.
 
 ##### Acknowledgments
 The MERN Stack: MongoDB, Express.js, React, and Node.js.
